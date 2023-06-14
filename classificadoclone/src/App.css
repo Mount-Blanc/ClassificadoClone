@@ -1,0 +1,12 @@
+body {
+  margin:0;
+}
+
+header {
+  background-color: #322549;
+  height: 80px;
+  position: fixed;
+  top:0;
+  right: 0;
+  left: 0;
+}
