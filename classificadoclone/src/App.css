@@ -26,7 +26,7 @@ list-style: none;
 text-decoration: none;
  }
  .jumbo-tron {
-  background-image: url("jumbo_tron.jpg");
+  background-image: url(./jumbo_tron.jpg) no-repeat center bottom #bfc2d1;
   background-size: 200px 200px;
   background-position: center bottom; 
 

@@ -99,6 +99,15 @@ function App() {
           </ul>
         </div>
       </div>
+      <footer>
+        <div>
+          <div>
+            <h3>ELClasificado</h3>
+            <div>logos</div>
+            <p>El Clasificado es parte de EC Hispanic Media lider compania multimedia lider de habla hispana en el sur de california</p>
+          </div>
+        </div>
+      </footer>
     </>
   )
 }
