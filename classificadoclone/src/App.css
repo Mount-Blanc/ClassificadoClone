@@ -4,9 +4,22 @@ body {
 
 header {
   background-color: #322549;
+  display: flex;
   height: 80px;
   position: fixed;
   top:0;
   right: 0;
   left: 0;
 }
+.top-location-container {
+  display: flex;
+}
+.categories-container {
+  display: flex;
+}
+.categories-container ul {
+list-style: none;
+}
+.categories-container ul li a {
+text-decoration: none;
+ }
