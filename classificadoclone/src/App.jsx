@@ -20,6 +20,7 @@ function App() {
 
       </div>
       </header>
+      <div className='jumbo-tron'>
       <div className="top-location-container">
         <div>
           <p>insert image</p>
@@ -80,6 +81,7 @@ function App() {
          
 
         </div>
+      </div>
       </div>
     </>
   )
