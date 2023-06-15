@@ -93,6 +93,8 @@ function App() {
             <li><a href=''>Meseros y Cocineros</a></li>
             <li><a href=''>Mecanica de Autos</a></li>
             <li><a href=''>Trabajos en Oficina</a></li>
+            <li><a href=''>Ver mas categories</a></li>
+
 
           </ul>
         </div>
