@@ -83,6 +83,20 @@ function App() {
         </div>
       </div>
       </div>
+      <div>
+        <h2>Anuncios y Clasificados GRATIS en x</h2>
+        <div>
+          <h4>this is a filler</h4>
+          <ul>
+            <li><a href=''>Trabajos en Limpieza</a></li>
+            <li><a href=''>Choferes y Conductores</a></li>
+            <li><a href=''>Meseros y Cocineros</a></li>
+            <li><a href=''>Mecanica de Autos</a></li>
+            <li><a href=''>Trabajos en Oficina</a></li>
+
+          </ul>
+        </div>
+      </div>
     </>
   )
 }

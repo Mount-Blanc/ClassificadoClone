@@ -1,6 +1,6 @@
 body {
   margin:0;
-  padding-top: 80px;
+  padding-top: 120px;
 }
 
 header {
@@ -26,8 +26,10 @@ list-style: none;
 text-decoration: none;
  }
  .jumbo-tron {
-  background-image: url("./jumbo-tron.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center bottom;
+  background-image: url("jumbo_tron.jpg");
+  background-size: 200px 200px;
+  background-position: center bottom; 
+
+ 
+
  }
