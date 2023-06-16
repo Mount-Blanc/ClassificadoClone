@@ -83,6 +83,7 @@ function App() {
           </div>
         </div>
       </div>
+
       <div>
         <h2>Anuncios y Clasificados GRATIS en x</h2>
         <div>
@@ -101,14 +102,38 @@ function App() {
       </div>
 
       <div className='Announcements'>
-        <div>
         <h2>Anuncios destacados</h2>
-        <div>
-          <h3>THis is an example</h3>
+
+        <div className='Announcements-grid'>
+        <div className='card'>
+           <div>
+           <h3>THis is an example</h3> 
+          <p>this is an example</p> 
+          </div>
+            <p>An image</p>
         </div>
-        <div></div>
-        <div></div>
-        <div></div>
+        <div className='card'>
+           <div>
+           <h3>THis is an example</h3> 
+          <p>this is an example</p> 
+          </div>
+            <p>An image</p>
+        </div>
+        <div className='card'>
+           <div>
+           <h3>THis is an example</h3> 
+          <p>this is an example</p> 
+          </div>
+            <p>An image</p>
+        </div>
+        <div className='card'>
+           <div>
+           <h3>THis is an example</h3> 
+          <p>this is an example</p> 
+          </div>
+            <p>An image</p>
+        </div>
+
       </div>
       </div>
 
