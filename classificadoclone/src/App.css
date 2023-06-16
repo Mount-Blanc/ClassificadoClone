@@ -54,3 +54,34 @@ justify-content: center;
     padding: 10px;
     justify-content: center;
  }
+ .job-card {
+  border-radius:12px;
+  background-color: white;
+  width: fit-content;
+  max-width: 230px;
+  height: 230px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,.1);
+  text-align: left;
+  border-top-color:#cc3333;
+  border-top-width:5px ;
+  border-top-style: solid;
+ }
+ .job-card-wrapper {
+  padding:15px;
+ }
+ .job-card  ul {
+padding-left: 0; 
+ }
+ .job-card  li {
+list-style: none;   
+}
+ .job-card  a {
+text-decoration: none;
+ }
+ .job-list {
+  padding-inline:15px;
+ }
+ .view-more-link {
+  border-top:1px solid #ccc;
+  
+ }
