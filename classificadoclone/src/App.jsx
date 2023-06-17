@@ -12,12 +12,13 @@ function App() {
           <p>Logo</p>
           <button>Cambiar Area</button>
         </div>
+
         <div>
           <span>
             search
           </span>
-          <a href=''>Mis Anuncios</a>
-          <a href=''>Publicar anuncio GRATIS</a>
+          <button>Mis Anuncios</button>
+          <button>Publicar anuncio GRATIS</button>
 
         </div>
         </div>
