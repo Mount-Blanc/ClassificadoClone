@@ -84,7 +84,7 @@ function App() {
         </div>
       </div>
 
-      <div>
+      <div className='job-announcement-container'>
         <h2>Anuncios y Clasificados GRATIS en x</h2>
         <div className='job-grid'>
         <div className='job-card'>

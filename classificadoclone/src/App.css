@@ -90,3 +90,9 @@ text-decoration: none;
   grid-template-columns: 200px 200px 200px;
   grid-gap:20px;
  }
+ .job-announcement-container {
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+ }
