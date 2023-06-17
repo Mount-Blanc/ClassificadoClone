@@ -6,7 +6,8 @@ function App() {
   return (
     <>
       <header>
-        <div>
+        <div className='header-container'>
+        <div className='nav-left'>
           <button>nav</button>
           <p>Logo</p>
           <button>Cambiar Area</button>
@@ -18,6 +19,7 @@ function App() {
           <a href=''>Mis Anuncios</a>
           <a href=''>Publicar anuncio GRATIS</a>
 
+        </div>
         </div>
       </header>
       <div className='jumbo-tron'>
