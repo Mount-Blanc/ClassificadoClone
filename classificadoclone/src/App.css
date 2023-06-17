@@ -85,3 +85,8 @@ text-decoration: none;
   border-top:1px solid #ccc;
   
  }
+ .job-grid {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-gap:20px;
+ }

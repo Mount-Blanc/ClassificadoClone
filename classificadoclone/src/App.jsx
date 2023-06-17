@@ -86,6 +86,7 @@ function App() {
 
       <div>
         <h2>Anuncios y Clasificados GRATIS en x</h2>
+        <div className='job-grid'>
         <div className='job-card'>
           <div className='job-card-wrapper'>
           <h4>this is a filler</h4>
@@ -100,6 +101,82 @@ function App() {
 
           </ul>
           </div>
+        </div>
+        <div className='job-card'>
+          <div className='job-card-wrapper'>
+          <h4>this is a filler</h4>
+          <ul className='job-list'>
+            <li><a href=''>Trabajos en Limpieza</a></li>
+            <li><a href=''>Choferes y Conductores</a></li>
+            <li><a href=''>Meseros y Cocineros</a></li>
+            <li><a href=''>Mecanica de Autos</a></li>
+            <li><a href=''>Trabajos en Oficina</a></li>
+            <li><a className='view-more-link' href=''>Ver mas categories</a></li>
+
+
+          </ul>
+          </div>
+        </div>
+        <div className='job-card'>
+          <div className='job-card-wrapper'>
+          <h4>this is a filler</h4>
+          <ul className='job-list'>
+            <li><a href=''>Trabajos en Limpieza</a></li>
+            <li><a href=''>Choferes y Conductores</a></li>
+            <li><a href=''>Meseros y Cocineros</a></li>
+            <li><a href=''>Mecanica de Autos</a></li>
+            <li><a href=''>Trabajos en Oficina</a></li>
+            <li><a className='view-more-link' href=''>Ver mas categories</a></li>
+
+
+          </ul>
+          </div>
+        </div>
+        <div className='job-card'>
+          <div className='job-card-wrapper'>
+          <h4>this is a filler</h4>
+          <ul className='job-list'>
+            <li><a href=''>Trabajos en Limpieza</a></li>
+            <li><a href=''>Choferes y Conductores</a></li>
+            <li><a href=''>Meseros y Cocineros</a></li>
+            <li><a href=''>Mecanica de Autos</a></li>
+            <li><a href=''>Trabajos en Oficina</a></li>
+            <li><a className='view-more-link' href=''>Ver mas categories</a></li>
+
+
+          </ul>
+          </div>
+        </div>
+        <div className='job-card'>
+          <div className='job-card-wrapper'>
+          <h4>this is a filler</h4>
+          <ul className='job-list'>
+            <li><a href=''>Trabajos en Limpieza</a></li>
+            <li><a href=''>Choferes y Conductores</a></li>
+            <li><a href=''>Meseros y Cocineros</a></li>
+            <li><a href=''>Mecanica de Autos</a></li>
+            <li><a href=''>Trabajos en Oficina</a></li>
+            <li><a className='view-more-link' href=''>Ver mas categories</a></li>
+
+
+          </ul>
+          </div>
+        </div>
+        <div className='job-card'>
+          <div className='job-card-wrapper'>
+          <h4>this is a filler</h4>
+          <ul className='job-list'>
+            <li><a href=''>Trabajos en Limpieza</a></li>
+            <li><a href=''>Choferes y Conductores</a></li>
+            <li><a href=''>Meseros y Cocineros</a></li>
+            <li><a href=''>Mecanica de Autos</a></li>
+            <li><a href=''>Trabajos en Oficina</a></li>
+            <li><a className='view-more-link' href=''>Ver mas categories</a></li>
+
+
+          </ul>
+          </div>
+        </div>
         </div>
       </div>
 
