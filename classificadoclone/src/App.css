@@ -1,6 +1,6 @@
 body {
   margin:0;
-  padding-top: 120px;
+  padding-top: 80px;
   background-color: #f8f8f8;
 }
 
@@ -12,9 +12,21 @@ header {
   right: 0;
   left: 0;
   color:white;
+  z-index: 500;
 }
 .top-location-container {
   display: flex;
+  justify-content: center;
+  background-color: white;
+  opacity:.9;
+  overflow:hidden;
+  margin:auto auto;
+  max-width: 1000px;
+
+}
+.top-location-container h4 {
+  background-color: #322549;
+  color:white;
 }
 .categories-container {
   display: flex;
@@ -26,9 +38,11 @@ list-style: none;
 text-decoration: none;
  }
  .jumbo-tron {
-  background-image: url(./jumbo_tron.jpg) no-repeat center bottom #bfc2d1;
-  background-size: 200px 200px;
-  background-position: center bottom; 
+  background: url(jumbo_tron.jpg) ;
+background-attachment: fixed;
+background-size: cover cover;
+background-position:center bottom;
+overflow: hidden;
  }
 
  .Announcements {
@@ -112,4 +126,8 @@ align-items: center;
   border:none;
   padding: 0 15px 0 10px;
   height: 40px;
+  vertical-align:center;
+ }
+ .link-container {
+  display: flex;
  }

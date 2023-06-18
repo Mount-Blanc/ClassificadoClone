@@ -45,6 +45,7 @@ function App() {
             </div>
             <div>
               <h4>Latinoamerica</h4>
+              <div className='link-container'>
               <ul>
                 <li><a href=''>Bogota</a></li>
                 <li><a href=''>Lima</a></li>
@@ -65,7 +66,7 @@ function App() {
                 <li><a href=''>Ciudad Panama</a></li>
                 <li><a href=''>mas</a></li>
 
-              </ul>
+              </ul></div>
             </div>
             <div>
               <h4>Ciudades en E.E.U.U</h4>
