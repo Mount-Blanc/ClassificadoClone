@@ -25,11 +25,13 @@ function App() {
       </header>
       <div className='jumbo-tron'>
         <div className="top-location-container">
+
           <div>
             <p>insert image</p>
           </div>
           <div className='categories-container'>
-            <div>
+
+            <div className='region-list'>
               <h4>Ciudades en California</h4>
               <ul>
                 <li><a href=''>Los Angeles</a></li>
@@ -43,7 +45,8 @@ function App() {
 
               </ul>
             </div>
-            <div>
+
+            <div className='region-list'>
               <h4>Latinoamerica</h4>
               <div className='link-container'>
               <ul>
@@ -68,7 +71,8 @@ function App() {
 
               </ul></div>
             </div>
-            <div>
+
+            <div className='region-list'>
               <h4>Ciudades en E.E.U.U</h4>
               <ul>
                 <li><a href=''>Los Angeles</a></li>
@@ -81,10 +85,11 @@ function App() {
                 <li><a href=''>mas</a></li>
 
               </ul>
-            </div>
 
 
           </div>
+    </div>
+
         </div>
       </div>
 

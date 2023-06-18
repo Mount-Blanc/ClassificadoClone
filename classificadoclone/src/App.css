@@ -20,8 +20,9 @@ header {
   background-color: white;
   opacity:.9;
   overflow:hidden;
-  margin:auto auto;
+  margin:10px auto;
   max-width: 1000px;
+  border-radius: 10px;
 
 }
 .top-location-container h4 {
@@ -130,4 +131,7 @@ align-items: center;
  }
  .link-container {
   display: flex;
+ }
+ .region-list {
+  padding-inline:10px;
  }
